@@ -1,0 +1,4 @@
+$ pwd foi usado para verificarmos onde estávamos trabalhando.
+$ cd /c/users/gferreira/desktop ou cd desktop para entrarmos no desktop.
+$ mkdir pratica-shell para criar a pasta "pratica-shell" no desktop.
+$ cd pratica-shell para entrarmos na pasta criada.
