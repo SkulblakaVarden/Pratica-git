@@ -1,1 +1,5 @@
-1º passo: Enumere as posições das cartas de 1 a 5. 2º passo: Abrir a primeira e quinta. Trocar suas posições se a primeira for maior que a quinta. Desvire as cartas. Seguir este processo fazendo as seguintes combinações: primeira e quarta, primeira e terceira, primera e segunda. 3º passo: Realizar o mesmo processo com as seguintes combinações: segunda e quinta, segunda e quarta, segunda e terceira; trocando as posições das duas cartas somente se a segunda for maior. 4º passo: Desvirar as cartas: terceira e quinta, terceira e quarta e troque as posições se a terceira for maior. 5º passo: Desvirar a quarta e a quinta e trocar se a quarta for maior. 6º passo: Desvirar todas as cartas e verificar que as cartas estão em ordem crescente.
+1º passo: definir uma sequência numerando as cartas de 1 a n ( sendo n o número total de cartas)
+2º passo: Realize uma comparação dos pares de cartas sequenciais começando na primeira e terminando na carta n da sequência.
+Nos casos nos quais a carta posterior ( seguindo a sequência de 1 à n) for menor que a carta anterior trocam-se as cartas de posição.
+Nos casos contrários se mantém a posição.
+3º passo: repetir o segundo passo n-1 vezes.
